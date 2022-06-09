@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+Programming Languages:
+javascript java php
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
