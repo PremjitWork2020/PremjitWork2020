@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Premjit Benake</h1>
 
 <h3 align="left">A passionate frontend developer</h3>
+
+<!-- <h3> 👨🏻‍💻 About Me </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhudevv&label=Profile%20views&color=0e75b6&style=flat" alt="prabhudevv" /> </p> -->
+
   
  Software Engineer. Skilled in User Interface Design with UI frameworks - Bootstrap, MaterializeCSS & Custom CSS, CSS3, SASS, Front-end development with React, Redux thunk, SAGA, JavaScript, jQuery. 
   
